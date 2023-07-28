@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋
 
 <!--
 **sameen-ahmad31/sameen-ahmad31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👤 My name is Sameen (she/her)
+🏫 I am a rising junior at The George Washington University
+👩🏻‍💻 I have worked on several courses, internships, and personal projects
+💬 Ask me about any of the projects by contacting me and I'm also happy to collaborate on projects!
+📫 I'm reachable at my email: sameen5634@gmail.com and happy to connect on LinkedIn (https://www.linkedin.com/in/sameenahmad/)
