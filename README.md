@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👤 My name is Sameen (she/her) <br>
-🏫 I am a rising junior at The George Washington University <br>
+🏫 I am a junior at The George Washington University <br>
 👩🏻‍💻 I have worked on several courses, internships, and personal projects <br>
 💬 Ask me about any of the projects by contacting me and I'm also happy to collaborate on projects! <br>
 📫 I'm reachable at my [email](mailto:sameen5634@gmail.com) and happy to connect on [LinkedIn](https://www.linkedin.com/in/sameenahmad/)! <br>
